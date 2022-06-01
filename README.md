@@ -14,9 +14,9 @@ For the semster 6 of batch 2023, B. Tech CS - Mini Project 2
 
 Made by :-
 
-Pushpendra Tiwari
-Surya Raj
-Priya Tomar
+Pushpendra Tiwari,
+Surya Raj,
+Priya Tomar,
 Prashant
 
 
