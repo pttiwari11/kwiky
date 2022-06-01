@@ -1,0 +1,21 @@
+{
+  "name": "kwiky",
+  "version": "1.0.0",
+  "description": "Realtime chat app using socket.io and vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "serve": "node server",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
